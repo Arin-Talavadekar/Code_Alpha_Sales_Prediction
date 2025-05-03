@@ -19,8 +19,8 @@ Before you run the app, make sure you have Python installed (version 3.7 or high
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/sales-prediction-app.git
-   cd sales-prediction-app
+   git clone https://github.com/Arin-Talavadekar/Code_Alpha_Sales_Prediction.git
+
 2. Install the necessary Dependencies 
    ```bash
    pip install -r requirements.txt
