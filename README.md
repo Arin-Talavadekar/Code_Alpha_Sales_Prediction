@@ -31,10 +31,10 @@ Before you run the app, make sure you have Python installed (version 3.7 or high
 ## 📸 Screenshots
 
 ### 🔷 Homepage
-![Homepage](homepage.png)
+![Homepage](Homepage.png)
 
 ### 🔷 Sales Prediction Result
-![Prediction Result](prediction_output.png)
+![Prediction Result](Prediction_output.png)
 
 
 
