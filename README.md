@@ -28,6 +28,14 @@ Before you run the app, make sure you have Python installed (version 3.7 or high
 
     ```bash
     streamlit run app.py
+## 📸 Screenshots
+
+### 🔷 Homepage
+![Homepage](homepage.png)
+
+### 🔷 Sales Prediction Result
+![Prediction Result](prediction_output.png)
+
 
 
 ## Author 
